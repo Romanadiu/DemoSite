@@ -1,0 +1,17 @@
+
+.service,.service1,.service2,.service3,.service4,.service5,.service6,.service8,.servive9,.service10,.service11,.service12,.service13,.service14{
+	margin-bottom: 10px;
+	border: solid 1px black;
+	padding: 10px;
+}
+.row{
+	/*margin-bottom: 5px;*/
+}
+.col,.col-md-3,.col-md-4,.col-sm,.col-2,.col-md-6,.col-5,.col-sm-6,.col-8,.col-4,.col-sm-8,.col-sm-4,.col-md-8,.col-6{
+	padding: 0;
+}
+.box{
+	border:1px solid yellow;
+	min-height: 60px;
+	background-color: green;
+}
